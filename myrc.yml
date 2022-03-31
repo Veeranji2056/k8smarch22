@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: myjavaapp-container
-          image: veeranji2056/myjavaapp29march22:1
+          image: veeranji2056/myjavaapp29march22:2
           ports:
             - containerPort: 8080
